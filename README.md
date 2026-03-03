@@ -1,4 +1,4 @@
-# Vendor Recommendation System (Rule-Based)
+# Vendor Recommendation System
 
 A **Streamlit**-based application that recommends the most relevant vendors based on project requirements using a simple **rule-based scoring system**.
 
@@ -72,3 +72,4 @@ Vendors are sorted in descending order of final score — highest score = most r
 Automate vendor shortlisting and eliminate time-consuming manual searching with a clear, explainable, rule-based logic suitable for business and procurement teams.
 
 Built using Streamlit
+
